@@ -28,23 +28,18 @@ Currently, I am seeking a Software Engineering / Full-Stack Development internsh
 ## 🛠️ Tech Stack
 
 ### Languages
-
 Java • JavaScript • TypeScript • Python • SQL • HTML • CSS
 
 ### Frameworks & Libraries
-
 React • React Native • Spring Boot • Firebase • Expo
 
 ### Databases
-
 MySQL • MongoDB • Firebase Firestore
 
 ### Testing
-
 Playwright • JUnit
 
 ### Cloud & Tools
-
 AWS • Git • GitHub • VS Code • IntelliJ IDEA • Postman
 
 <br>
@@ -84,18 +79,23 @@ AWS • Git • GitHub • VS Code • IntelliJ IDEA • Postman
 ## 📌 Featured Projects
 
 - 📱 Expense Tracker App
+    </br>
   Cross-platform mobile application built with React Native, Firebase, and TypeScript.
   
 - ✅ Task Management System
+    </br>
   Backend REST API developed using Spring Boot and MySQL.
   
 - ☁️ Personal Trainer App
+    </br>
   React application focused on fitness management.
   
 - 🌐 Personal Portfolio Website (In Progress)
+    </br>
   Personal website showcasing projects, skills, and learning journey.
   
 - 💻 Quiz App (Group Project)
+    </br>
   Collaborative web application developed as a university team project.
 
 ---
