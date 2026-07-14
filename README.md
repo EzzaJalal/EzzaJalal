@@ -1,6 +1,10 @@
-# Hi there, I'm Ezza Jalal 👋
+<p align="center">
+  <img src="./github-banner.png" alt="Ezza Jalal GitHub Banner" width="100%" />
+</p>
 
-## Software Engineering Student | Business Information Technology @ Haaga-Helia University of Applied Sciences
+# 👋 Welcome to my GitHub!
+
+## Business Information Technology Student | Software Development @ Haaga-Helia University of Applied Sciences
 
 I am a final-year Business Information Technology student specializing in Software Development at Haaga-Helia University of Applied Sciences, Finland.
 
